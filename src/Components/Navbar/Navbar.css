@@ -1,0 +1,13 @@
+.search {
+  width: 30% !important;
+  justify-content: space-between !important;
+}
+
+@media screen and (min-width: 426px) {
+  .burgerMenu {
+    display: none !important;
+  }
+  .search {
+    width: 35% !important;
+  }
+}
